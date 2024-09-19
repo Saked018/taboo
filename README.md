@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Clarify triton server boolean value (#8532)
